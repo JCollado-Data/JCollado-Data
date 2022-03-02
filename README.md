@@ -2,6 +2,7 @@
 -   I am a Scientist looking to transition into the Data Science career field. 
 -   I bring over 5 years of data analytical experince from the military and 3 years of experince from the Biotech/Pharamcutical industry.
 -   I have completed certficicate course in Tableau and SQL. 
+-   Other tools I have used include, VBA, Oracle DB, SQLite, JMP, and R/R Studio.
 -   I am currently completing the Data Science Boot Camp Offered at UC San Diego.
 -   I have a B.S. in Public Health focused on Epidemology and Health informatics, along with an A.S. in Human Biology.
 -   I would like to work to improve societal health using data and technology.
