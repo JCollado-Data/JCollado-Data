@@ -1,12 +1,12 @@
 - Hi, I’m Javier Collado
--   I am a Scientist looking to transition into the Data Science career field. 
--   I bring over 5 years of data analytical experince from the military and 3 years of experince from the Biotech/Pharamcutical industry.
--   I have completed certficicate course in Tableau and SQL. 
+-   I am a new Data Scientist with years of scientific experience the Pharmaceutical and Biotech industry. 
+-   I bring over 5 years of data analytical experience from the military and 4 years of experience from the Biotech/Pharmaceutical industry.
+-   I have completed certificate course in Tableau and SQL. 
 -   Other tools I have used include, VBA, Oracle DB, SQLite, JMP, and R/R Studio.
 -   I am currently completing the Data Science Boot Camp Offered at UC San Diego.
--   I have a B.S. in Public Health focused on Epidemology and Health informatics, along with an A.S. in Human Biology.
+-   I have a B.S. in Public Health focused on Epidemiology and Health informatics, along with an A.S. in Human Biology.
+-   I am interesting in finding new ways to use AI and ML in the medical field to improve personal health
 -   I would like to work to improve societal health using data and technology.
--   I am looking for an entry level data science or mid to upper level data analyist position.
 -   If you would like to reach out to collaborate or any further questions I can be reached by email @jcollado.data@gmail.com
 
 <!---
