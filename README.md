@@ -1,9 +1,11 @@
 - Hi, I’m Javier Collado
--   I am a new Data Engineer with years of scientific experience the Pharmaceutical and Biotech industry. 
--   I bring over 5 years of data analytical experience from the military and 4 years of experience from the Biotech/Pharmaceutical industry.
--   I have completed certificate course in Tableau and SQL. 
--   Other tools I have used include, VBA, Oracle DB, SQLite, JMP, and R/R Studio.
--   I am currently completing the Data Science Boot Camp Offered at UC San Diego.
+-   I currently work as a Software Developer, some of my previous job experince includes positions as a Sr Data Admin and Jr Data Scientist.
+-   I have years of scientific experience in the Pharmaceutical and Biotech industry. 
+-   I bring over 7 years of data analytical experience, including military and 4 years of experience from the Biotech/Pharmaceutical industry.
+-   I have completed multiple certificates to enhance my education and skills, Please visit my LinkedIn to see a list of those: www.linkedin.com/in/javierc-datasci
+
+-   My Main Programming Languages include Python (3 years), C++ (1 year), SQL (4 years), R (3 years)
+-   I have completed a Data Science Boot Camp from UC San Diego.
 -   I have a B.S. in Public Health focused on Epidemiology and Health informatics, along with an A.S. in Human Biology.
 -   I am interesting in Data/ML Engineering
 -   If you would like to reach out to collaborate or any further questions I can be reached by email @jcollado.data@gmail.com
