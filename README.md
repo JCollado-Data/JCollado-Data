@@ -1,5 +1,6 @@
 - Hi, I’m Javier Collado
-https://jcollado-data.github.io/JCollado-Portfolio/
+
+-   https://jcollado-data.github.io/JCollado-Portfolio/
 -   I currently work as a Software Developer, some of my previous job experince includes positions as a Sr Data Admin and Jr Data Scientist.
 -   I have years of scientific experience in the Pharmaceutical and Biotech industry. 
 -   I bring over 7 years of data analytical experience, including military and 4 years of experience from the Biotech/Pharmaceutical industry.
