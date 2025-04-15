@@ -10,7 +10,7 @@
 -   I have completed a Data Science Boot Camp from UC San Diego.
 -   I have a B.S. in Public Health focused on Epidemiology and Health informatics, along with an A.S. in Human Biology.
 -   I am interested in Data/ML Engineering
--   If you would like to reach out to collaborate or have any further questions, I can be reached by email @jcollado.data@gmail.com
+-   If you would like to reach out to collaborate or have any further questions, I can be reached by email @colladoj2089@gmail.com
 
 <!---
 JCollado-Data/JCollado-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
